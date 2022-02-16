@@ -1,6 +1,6 @@
 
 <p  align="center">
-<img  src="https://github.com/GeoLinker/GeoLinker/blob/main/documentation/GeoLinker_compressed.gif">
+<img  src="https://github.com/giantInterlinking/JedAI-spatial/blob/main/documentation/JS-gui.gif">
 </p>
 
 # Run Parallel Experiments
